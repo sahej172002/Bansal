@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7805646.chunk.css",
-    "main.js": "/static/js/main.cfe5f08d.chunk.js",
-    "main.js.map": "/static/js/main.cfe5f08d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6b5ef6cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6b5ef6cf.js.map",
-    "static/css/2.ad5ce37f.chunk.css": "/static/css/2.ad5ce37f.chunk.css",
-    "static/js/2.e0db92db.chunk.js": "/static/js/2.e0db92db.chunk.js",
-    "static/js/2.e0db92db.chunk.js.map": "/static/js/2.e0db92db.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.667904249786871917266ec6820a35da.js": "/precache-manifest.667904249786871917266ec6820a35da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.ad5ce37f.chunk.css.map": "/static/css/2.ad5ce37f.chunk.css.map",
-    "static/css/main.b7805646.chunk.css.map": "/static/css/main.b7805646.chunk.css.map",
-    "static/js/2.e0db92db.chunk.js.LICENSE.txt": "/static/js/2.e0db92db.chunk.js.LICENSE.txt",
-    "static/media/me2.jpg": "/static/media/me2.e0beb0bd.jpg",
-    "static/media/nomansland.png": "/static/media/nomansland.0b18b95b.png",
-    "static/media/portfolio.png": "/static/media/portfolio.1490b581.png",
-    "static/media/talltales.png": "/static/media/talltales.7dd0d040.png",
-    "static/media/truth.png": "/static/media/truth.6e1d588f.png"
+    "main.css": "/bansal.me/static/css/main.b7805646.chunk.css",
+    "main.js": "/bansal.me/static/js/main.5425bffd.chunk.js",
+    "main.js.map": "/bansal.me/static/js/main.5425bffd.chunk.js.map",
+    "runtime-main.js": "/bansal.me/static/js/runtime-main.cf07f860.js",
+    "runtime-main.js.map": "/bansal.me/static/js/runtime-main.cf07f860.js.map",
+    "static/css/2.ad5ce37f.chunk.css": "/bansal.me/static/css/2.ad5ce37f.chunk.css",
+    "static/js/2.a487fb76.chunk.js": "/bansal.me/static/js/2.a487fb76.chunk.js",
+    "static/js/2.a487fb76.chunk.js.map": "/bansal.me/static/js/2.a487fb76.chunk.js.map",
+    "index.html": "/bansal.me/index.html",
+    "precache-manifest.ddd477837fb47446030dcd241fafbdb2.js": "/bansal.me/precache-manifest.ddd477837fb47446030dcd241fafbdb2.js",
+    "service-worker.js": "/bansal.me/service-worker.js",
+    "static/css/2.ad5ce37f.chunk.css.map": "/bansal.me/static/css/2.ad5ce37f.chunk.css.map",
+    "static/css/main.b7805646.chunk.css.map": "/bansal.me/static/css/main.b7805646.chunk.css.map",
+    "static/js/2.a487fb76.chunk.js.LICENSE.txt": "/bansal.me/static/js/2.a487fb76.chunk.js.LICENSE.txt",
+    "static/media/me2.jpg": "/bansal.me/static/media/me2.e0beb0bd.jpg",
+    "static/media/nomansland.png": "/bansal.me/static/media/nomansland.0b18b95b.png",
+    "static/media/portfolio.png": "/bansal.me/static/media/portfolio.1490b581.png",
+    "static/media/talltales.png": "/bansal.me/static/media/talltales.7dd0d040.png",
+    "static/media/truth.png": "/bansal.me/static/media/truth.6e1d588f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b5ef6cf.js",
+    "static/js/runtime-main.cf07f860.js",
     "static/css/2.ad5ce37f.chunk.css",
-    "static/js/2.e0db92db.chunk.js",
+    "static/js/2.a487fb76.chunk.js",
     "static/css/main.b7805646.chunk.css",
-    "static/js/main.cfe5f08d.chunk.js"
+    "static/js/main.5425bffd.chunk.js"
   ]
 }
