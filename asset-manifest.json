@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7805646.chunk.css",
-    "main.js": "/static/js/main.3da39878.chunk.js",
-    "main.js.map": "/static/js/main.3da39878.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6b5ef6cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6b5ef6cf.js.map",
-    "static/css/2.ad5ce37f.chunk.css": "/static/css/2.ad5ce37f.chunk.css",
-    "static/js/2.b9d90157.chunk.js": "/static/js/2.b9d90157.chunk.js",
-    "static/js/2.b9d90157.chunk.js.map": "/static/js/2.b9d90157.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9eb6bce7d042b1e49dc88b7d604e681c.js": "/precache-manifest.9eb6bce7d042b1e49dc88b7d604e681c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.ad5ce37f.chunk.css.map": "/static/css/2.ad5ce37f.chunk.css.map",
-    "static/css/main.b7805646.chunk.css.map": "/static/css/main.b7805646.chunk.css.map",
-    "static/js/2.b9d90157.chunk.js.LICENSE.txt": "/static/js/2.b9d90157.chunk.js.LICENSE.txt"
+    "main.css": "/Bansal/static/css/main.b7805646.chunk.css",
+    "main.js": "/Bansal/static/js/main.93871ffc.chunk.js",
+    "main.js.map": "/Bansal/static/js/main.93871ffc.chunk.js.map",
+    "runtime-main.js": "/Bansal/static/js/runtime-main.bcaef58b.js",
+    "runtime-main.js.map": "/Bansal/static/js/runtime-main.bcaef58b.js.map",
+    "static/css/2.ad5ce37f.chunk.css": "/Bansal/static/css/2.ad5ce37f.chunk.css",
+    "static/js/2.158138ea.chunk.js": "/Bansal/static/js/2.158138ea.chunk.js",
+    "static/js/2.158138ea.chunk.js.map": "/Bansal/static/js/2.158138ea.chunk.js.map",
+    "index.html": "/Bansal/index.html",
+    "precache-manifest.f89dfbe6b76b27f0304376c65eee08f3.js": "/Bansal/precache-manifest.f89dfbe6b76b27f0304376c65eee08f3.js",
+    "service-worker.js": "/Bansal/service-worker.js",
+    "static/css/2.ad5ce37f.chunk.css.map": "/Bansal/static/css/2.ad5ce37f.chunk.css.map",
+    "static/css/main.b7805646.chunk.css.map": "/Bansal/static/css/main.b7805646.chunk.css.map",
+    "static/js/2.158138ea.chunk.js.LICENSE.txt": "/Bansal/static/js/2.158138ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b5ef6cf.js",
+    "static/js/runtime-main.bcaef58b.js",
     "static/css/2.ad5ce37f.chunk.css",
-    "static/js/2.b9d90157.chunk.js",
+    "static/js/2.158138ea.chunk.js",
     "static/css/main.b7805646.chunk.css",
-    "static/js/main.3da39878.chunk.js"
+    "static/js/main.93871ffc.chunk.js"
   ]
 }
