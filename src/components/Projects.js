@@ -7,6 +7,10 @@ import FadeInSection from "./FadeInSection";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import Carousel from "react-bootstrap/Carousel";
 import ExternalLinks from "./ExternalLinks";
+import nomansland from "../assets/nomansland.png";
+import truth from "../assets/truth.png";
+import talltales from "../assets/talltales.png"
+import portfolio from "../assets/portfolio.png"
 
 class Projects extends React.Component {
   constructor() {
@@ -31,7 +35,7 @@ class Projects extends React.Component {
         techStack: "C# (UNITY)",
         link: "https://github.com/slakh96/no-mans-land",
         open: "https://gazijarin.itch.io/no-mans-land",
-        image: "/assets/nomansland.png"
+        image: nomansland
       },
       Truth: {
         title: "truth",
@@ -40,7 +44,7 @@ class Projects extends React.Component {
         techStack: "JAVASCRIPT (THREE.JS)",
         link: "https://github.com/gazijarin/truth",
         open: "https://gazijarin.github.io/Truth/",
-        image: "/assets/truth.png"
+        image: truth
       },
       "Tall Tales": {
         title: "tall tales",
@@ -49,7 +53,7 @@ class Projects extends React.Component {
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/gazijarin/TallTales",
         open: "https://talltales.herokuapp.com/",
-        image: "/assets/talltales.png"
+        image: talltales
       },
       Portfolio: {
         title: "portfolio.js",
@@ -58,7 +62,7 @@ class Projects extends React.Component {
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/gazijarin/Portfolio.js",
         open: "https://afternoon-ocean-92382.herokuapp.com/",
-        image: "/assets/portfolio.png"
+        image: portfolio
       }
     };
     const projects = {

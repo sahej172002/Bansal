@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/About.css";
 import FadeInSection from "./FadeInSection";
+import me2 from "../assets/me2.jpg"
 
 class About extends React.Component {
   constructor() {
@@ -81,7 +82,7 @@ class About extends React.Component {
               {[two]}
             </div>
             <div className="about-image">
-              <img src={"/assets/me2.jpg"} />
+              <img src={me2} />
             </div>
           </div>
         </FadeInSection>
