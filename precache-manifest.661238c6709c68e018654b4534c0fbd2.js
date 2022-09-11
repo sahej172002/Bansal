@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64d6a8acfef446b4de45b16f349974af",
+    "revision": "524bbf1635e15e295c511bba4697999d",
     "url": "/Bansal/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bansal/static/css/2.ad5ce37f.chunk.css"
   },
   {
-    "revision": "8dc0b18d027fd1d3ee28",
+    "revision": "e3767ec2b908015f9a64",
     "url": "/Bansal/static/css/main.b7805646.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bansal/static/js/2.e4383f31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8dc0b18d027fd1d3ee28",
-    "url": "/Bansal/static/js/main.9d39a2a4.chunk.js"
+    "revision": "e3767ec2b908015f9a64",
+    "url": "/Bansal/static/js/main.3f0e98fe.chunk.js"
   },
   {
     "revision": "2e7b1065e623c91867a9",
     "url": "/Bansal/static/js/runtime-main.bcaef58b.js"
   },
   {
-    "revision": "7b8bffbc3515350c6d8327b5a6971003",
-    "url": "/Bansal/static/media/me2.7b8bffbc.jpg"
+    "revision": "7bf7a0a050c23cca5e5915fc85709a0d",
+    "url": "/Bansal/static/media/me2.7bf7a0a0.jpg"
   },
   {
     "revision": "0b18b95b0f903706221a4a094532567f",
