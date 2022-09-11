@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42a1d0752948ee5a441f827fa25f895d",
+    "revision": "2faf2484c8753ce3b499de23d86e4569",
     "url": "/Bansal/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bansal/static/css/2.ad5ce37f.chunk.css"
   },
   {
-    "revision": "3ce9f5e854e30fd5a0d4",
+    "revision": "4128f704fe2e5f73570e",
     "url": "/Bansal/static/css/main.b7805646.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bansal/static/js/2.3b4cc50c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ce9f5e854e30fd5a0d4",
-    "url": "/Bansal/static/js/main.7c6fa926.chunk.js"
+    "revision": "4128f704fe2e5f73570e",
+    "url": "/Bansal/static/js/main.a3fb88d0.chunk.js"
   },
   {
     "revision": "2e7b1065e623c91867a9",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Bansal/static/css/main.b7805646.chunk.css",
-    "main.js": "/Bansal/static/js/main.7c6fa926.chunk.js",
-    "main.js.map": "/Bansal/static/js/main.7c6fa926.chunk.js.map",
+    "main.js": "/Bansal/static/js/main.a3fb88d0.chunk.js",
+    "main.js.map": "/Bansal/static/js/main.a3fb88d0.chunk.js.map",
     "runtime-main.js": "/Bansal/static/js/runtime-main.bcaef58b.js",
     "runtime-main.js.map": "/Bansal/static/js/runtime-main.bcaef58b.js.map",
     "static/css/2.ad5ce37f.chunk.css": "/Bansal/static/css/2.ad5ce37f.chunk.css",
     "static/js/2.3b4cc50c.chunk.js": "/Bansal/static/js/2.3b4cc50c.chunk.js",
     "static/js/2.3b4cc50c.chunk.js.map": "/Bansal/static/js/2.3b4cc50c.chunk.js.map",
     "index.html": "/Bansal/index.html",
-    "precache-manifest.9a25f118a617db5d69e96d1658e33a0c.js": "/Bansal/precache-manifest.9a25f118a617db5d69e96d1658e33a0c.js",
+    "precache-manifest.11fb3f360d46fd895325b853daa9cc81.js": "/Bansal/precache-manifest.11fb3f360d46fd895325b853daa9cc81.js",
     "service-worker.js": "/Bansal/service-worker.js",
     "static/css/2.ad5ce37f.chunk.css.map": "/Bansal/static/css/2.ad5ce37f.chunk.css.map",
     "static/css/main.b7805646.chunk.css.map": "/Bansal/static/css/main.b7805646.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.ad5ce37f.chunk.css",
     "static/js/2.3b4cc50c.chunk.js",
     "static/css/main.b7805646.chunk.css",
-    "static/js/main.7c6fa926.chunk.js"
+    "static/js/main.a3fb88d0.chunk.js"
   ]
 }
