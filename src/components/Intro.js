@@ -3,7 +3,6 @@ import React from "react";
 import "../styles/Intro.css";
 import Typist from "react-typist";
 import "react-typist/dist/Typist.css";
-import GaziModel from "./GaziModel";
 import EmailRoundedIcon from "@material-ui/icons/EmailRounded";
 import FadeInSection from "./FadeInSection";
 
@@ -28,19 +27,19 @@ class Intro extends React.Component {
         <Typist avgTypingDelay={120}>
           <span className="intro-title">
             {"hi, "}
-            <span className="intro-name">{"gazi"}</span>
+            <span className="intro-name">{"sahej"}</span>
             {" here."}
           </span>
         </Typist>
         <FadeInSection>
-          <div className="intro-subtitle">I create stuff sometimes.</div>
+          <div className="intro-subtitle">I break stuff sometimes.</div>
           <div className="intro-desc">
-            I'm a software engineer and artist based in Toronto. I have great
-            interest in full-stack development, artificial intelligence,
-            human-computer interactions, and everything in between.
+            I'm a software engineer and gamer based in New Jersey. I have a great
+            interest in full-stack development, automation,
+            cloud development, and everything in between.
           </div>
           <a
-            href="mailto:gazi.jarin@mail.utoronto.ca"
+            href="mailto:sahej.bansal@rutgers.edu"
             className="intro-contact"
           >
             <EmailRoundedIcon></EmailRoundedIcon>

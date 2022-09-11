@@ -27,87 +27,77 @@ class Projects extends React.Component {
     });
   }
   render() {
-    const spotlightProjects = {
-      "No Man's Land": {
-        title: "no man's land",
-        desc:
-          "A third-person survival-mode game where you battle against time and space to return to Earth.",
-        techStack: "C# (UNITY)",
-        link: "https://github.com/slakh96/no-mans-land",
-        open: "https://gazijarin.itch.io/no-mans-land",
-        image: nomansland
-      },
-      Truth: {
-        title: "truth",
-        desc:
-          "A three.js simulation of the planet system revolving around a monolith.",
-        techStack: "JAVASCRIPT (THREE.JS)",
-        link: "https://github.com/gazijarin/truth",
-        open: "https://gazijarin.github.io/Truth/",
-        image: truth
-      },
-      "Tall Tales": {
-        title: "tall tales",
-        desc:
-          "A multi-player story-telling web game for 3-5 players. Its usage of sockets to allow for concurrent gameplay, connecting friends across the internet.",
-        techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
-        link: "https://github.com/gazijarin/TallTales",
-        open: "https://talltales.herokuapp.com/",
-        image: talltales
-      },
-      Portfolio: {
-        title: "portfolio.js",
-        desc:
-          "A small JS library that helps with clear and succinct data presentation.",
-        techStack: "NODE.JS (EXPRESS.JS)",
-        link: "https://github.com/gazijarin/Portfolio.js",
-        open: "https://afternoon-ocean-92382.herokuapp.com/",
-        image: portfolio
-      }
-    };
+    // const spotlightProjects = {
+    //   "No Man's Land": {
+    //     title: "no man's land",
+    //     desc:
+    //       "A third-person survival-mode game where you battle against time and space to return to Earth.",
+    //     techStack: "C# (UNITY)",
+    //     link: "https://github.com/slakh96/no-mans-land",
+    //     open: "https://gazijarin.itch.io/no-mans-land",
+    //     image: nomansland
+    //   },
+    //   Truth: {
+    //     title: "truth",
+    //     desc:
+    //       "A three.js simulation of the planet system revolving around a monolith.",
+    //     techStack: "JAVASCRIPT (THREE.JS)",
+    //     link: "https://github.com/gazijarin/truth",
+    //     open: "https://gazijarin.github.io/Truth/",
+    //     image: truth
+    //   },
+    //   "Tall Tales": {
+    //     title: "tall tales",
+    //     desc:
+    //       "A multi-player story-telling web game for 3-5 players. Its usage of sockets to allow for concurrent gameplay, connecting friends across the internet.",
+    //     techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
+    //     link: "https://github.com/gazijarin/TallTales",
+    //     open: "https://talltales.herokuapp.com/",
+    //     image: talltales
+    //   },
+    //   Portfolio: {
+    //     title: "portfolio.js",
+    //     desc:
+    //       "A small JS library that helps with clear and succinct data presentation.",
+    //     techStack: "NODE.JS (EXPRESS.JS)",
+    //     link: "https://github.com/gazijarin/Portfolio.js",
+    //     open: "https://afternoon-ocean-92382.herokuapp.com/",
+    //     image: portfolio
+    //   }
+    // };
     const projects = {
-      "TDSB Homework Management Interface": {
+      "Sledge": {
         desc:
-          "An application created for Toronto District School Board, with a Flask back-end and a Vue front-end.",
-        techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-        link: "https://github.com/gazijarin/TDSBHomeworkManagement",
-        open: "https://tdsb-app.herokuapp.com/"
+          "A comprehensive judging system for hackathons created in React and HTML.",
+        techStack: "ReactJS, MongoDB, Node",
+        link: "https://github.com/HackRU/sledge"
       },
-      "Adam A.I.": {
+      "Song Library": {
         desc:
-          "A self-learning A.I. that learns to traverse through a complex maze using the genetic algorithm.",
-        techStack: "Javascript, HTML / CSS",
-        link: "https://github.com/gazijarin/adamai",
-        open: "https://gazijarin.github.io/AdamAI/"
+          "A desktop app that saves, selects and displays songs from a user created library",
+        techStack: "Java, FXML",
+        link: "https://github.com/sahej172002/Song-Library",
       },
-      "Distributed Logging and Monitoring System": {
+      "To-do App": {
         desc:
-          "A system that establishes an ORM connection to a Prisma client in order to communicate logs from microservices.",
-        techStack: "Node.js (Express.js), React.js, PostgreSQL",
+          "Barebones web application created to facilitate local to-do lists including update, edit and delete functions",
+        techStack: "Node.js (Express.js), React.js, MySQL",
         link:
-          "https://github.com/gazijarin/Distributed-Logging-and-Monitoring-System"
+          "https://github.com/sahej172002/Todo-App"
       },
-      "Odin Bot": {
+      "Nitro College": {
         desc:
-          "A Telegram bot that helps you excel on your daily tasks through Node NLP.",
-        techStack: "Javascript, Node.js, Natural NLP, Telegram API",
-        link: "https://github.com/gazijarin/OdinBot",
-        open: ""
+          "A production web application designed to support incoming and transfer college students in financial planning and application tracking.",
+        techStack: "React.js, Node.js, PostgreSQL, Prisma",
+        link: "https://app.nitrocollege.com/",
+        open: "https://www.nitrocollege.com/"
       },
-      "Game Centre": {
+      "Scrumbooster": {
         desc:
-          "An Android app consisting of three board games, including multiplayer, autosave, user authentication, etc.",
+          "A private production web app intended to provide comprehensive scrum and sprint planning functionalities to external clients",
         techStack: "Java, Android Studio",
-        link: "https://github.com/gazijarin/gamecentre",
-        open: ""
+        open: "https://intelligaia.com/"
       },
-      "Minimax Stonehenge": {
-        desc:
-          "Two-player, zero-sum game with a strategic Minimax artificial intelligence.",
-        techStack: "Python",
-        link: "https://github.com/gazijarin/stonehenge",
-        open: ""
-      }
     };
 
     return (
@@ -115,7 +105,7 @@ class Projects extends React.Component {
         <div className="section-header ">
           <span className="section-title">/ software-creations</span>
         </div>
-        <Carousel>
+        {/* <Carousel>
           {Object.keys(spotlightProjects).map((key, i) => (
             <Carousel.Item>
               <img
@@ -140,7 +130,7 @@ class Projects extends React.Component {
               </div>
             </Carousel.Item>
           ))}
-        </Carousel>
+        </Carousel> */}
         <div className="project-container">
           <ul className="projects-grid">
             {Object.keys(projects).map((key, i) => (

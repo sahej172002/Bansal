@@ -82,30 +82,30 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
-    Amazon: {
-      jobTitle: "Software Development Engineer @",
-      duration: "JUL 2022 - PRESENT",
+    Kellton: {
+      jobTitle: "Software Engineering Intern @",
+      duration: "JUN 2022 - AUG 2022",
       desc: [
-        "Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.",
-        "Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.",
-        "Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use."
+        "Collaborate with experienced cross-disciplinary Kelltonites to conceive, design, and bring innovative developments to client project.",
+        "Design and build creative solutions in a large distributed computing environment and help develop out-of-the-box designs and functionalities.",
+        "Observe, analyze and refactor code snippets across a multi-thousand line codebase to allow approximately 50% greater component reusability."
       ]
     },
-    Wattpad: {
+    Intelligaia: {
       jobTitle: "Software Engineering Intern @",
-      duration: "MAY 2020 - APR 2021",
+      duration: "MAY 2021 - JUL 2021",
       desc: [
-        "Developed a responsive React web page (the new Story Details) from scratch, both on client and server side, for an app with massive scale (2 billion daily requests).",
-        "Iteratively built web experiences for 80 million users across high-traffic pages.",
+        "Developed a comprehensive custom Pad management API (referencing the Etherpad API) from scratch involving core functionalities and integration for an app with massive scale (multi-million daily requests) and corporate clients.",
+        "Increased internal scrum efficiency by 40% through integration of custom API as well as an ummeasured performance gain for clients.",
         "Collaborated with senior engineers and product management following best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations."
       ]
     },
-    "University of Toronto": {
-      jobTitle: "Research Engineer @",
-      duration: "MAY 2021 - SEPT 2021",
+    "Vedasya": {
+      jobTitle: "Software Engineering Intern @",
+      duration: "MAY 2020 - DEC 2020",
       desc: [
-        "Developing and researching an NLP-based framework using state-of-the-art tools like Spacy and Stanza to facilitate the derivation of requirements from health data by leveraging syntactic dependencies, entity-recognition and rule-based match-making.",
-        " Application selected for DCS Research Award ($4,000) as part of the ”Visualizing Privacy Analysis Results” project led by Professor Marsha Chechik."
+        "Redesigned and developed a responsive Java and JS webpage to display exam and lecture reports for students and teachers using SQL queries and data aggregation/visualization functions.",
+        "Presented designs and developments after sprints to multi-million dollar clients such as Public and Private Schools."
       ]
     },
     // Centivizer: {
@@ -123,15 +123,15 @@ const JobList = () => {
     //     "Co-developed homework management software integrable with Google Classroom by utilizing the Python’s Flask micro-framework for the back-end API and Vue.js for the front-end UI, in order to translate business requirements into a functional full-stack application."
     //   ]
     // },
-    "Orange Gate": {
-      jobTitle: "Software Engineering Intern @",
-      duration: "MAY 2019 - AUG 2019",
-      desc: [
-        "Developed a Node.js smart home system through Facebook’s Messenger integrated with Bocco sen- sors and other smart devices (Nest camera, TPLink smart plugs) to derive conclusions about the current state of the home",
-        "Identified continuous improvements in data quality, design reports and coding activities, presenting results and findings to internal business stakeholders.",
-        "Relevant technologies/tools used: DialogFlow, Vision, AutoML, Messenger Bot API, MongoDB."
-      ]
-    }
+    // "Orange Gate": {
+    //   jobTitle: "Software Engineering Intern @",
+    //   duration: "MAY 2019 - AUG 2019",
+    //   desc: [
+    //     "Developed a Node.js smart home system through Facebook’s Messenger integrated with Bocco sen- sors and other smart devices (Nest camera, TPLink smart plugs) to derive conclusions about the current state of the home",
+    //     "Identified continuous improvements in data quality, design reports and coding activities, presenting results and findings to internal business stakeholders.",
+    //     "Relevant technologies/tools used: DialogFlow, Vision, AutoML, Messenger Bot API, MongoDB."
+    //   ]
+    // }
   };
 
   const handleChange = (event, newValue) => {
