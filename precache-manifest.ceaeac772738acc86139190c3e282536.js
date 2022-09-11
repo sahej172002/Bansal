@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2faf2484c8753ce3b499de23d86e4569",
+    "revision": "64d6a8acfef446b4de45b16f349974af",
     "url": "/Bansal/index.html"
   },
   {
-    "revision": "ee40a45c54ef76a211c4",
+    "revision": "34a4887ae3dfab92070c",
     "url": "/Bansal/static/css/2.ad5ce37f.chunk.css"
   },
   {
-    "revision": "4128f704fe2e5f73570e",
+    "revision": "8dc0b18d027fd1d3ee28",
     "url": "/Bansal/static/css/main.b7805646.chunk.css"
   },
   {
-    "revision": "ee40a45c54ef76a211c4",
-    "url": "/Bansal/static/js/2.3b4cc50c.chunk.js"
+    "revision": "34a4887ae3dfab92070c",
+    "url": "/Bansal/static/js/2.e4383f31.chunk.js"
   },
   {
-    "revision": "b12aaea9c7d723083f2c844fa56b8dc2",
-    "url": "/Bansal/static/js/2.3b4cc50c.chunk.js.LICENSE.txt"
+    "revision": "5e9b6f5c16b720e8a86875f97734673e",
+    "url": "/Bansal/static/js/2.e4383f31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4128f704fe2e5f73570e",
-    "url": "/Bansal/static/js/main.a3fb88d0.chunk.js"
+    "revision": "8dc0b18d027fd1d3ee28",
+    "url": "/Bansal/static/js/main.9d39a2a4.chunk.js"
   },
   {
     "revision": "2e7b1065e623c91867a9",
     "url": "/Bansal/static/js/runtime-main.bcaef58b.js"
   },
   {
-    "revision": "e0beb0bdeab17cfc86cbd10d351a0fee",
-    "url": "/Bansal/static/media/me2.e0beb0bd.jpg"
+    "revision": "7b8bffbc3515350c6d8327b5a6971003",
+    "url": "/Bansal/static/media/me2.7b8bffbc.jpg"
   },
   {
     "revision": "0b18b95b0f903706221a4a094532567f",
